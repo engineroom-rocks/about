@@ -14,7 +14,7 @@ We are currently based only in Singapore but are open to chapters in other count
 
 # About Us
 
-EngineRoom is a product-centric software engineering community created by engineers for engineers.
+**EngineRoom is a product-centric software engineering community created by engineers for engineers.**
 
 Our aim is to be a community that brings together proficient product/service creators to discuss experiences, learn from the '*been theres*, and share on individual journeys.
 
