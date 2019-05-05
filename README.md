@@ -42,6 +42,7 @@ Our meetups will always have an open segment for the community to step up to sha
 
 # Resources Found Here
 
+- [Events](./events.md)
 - [Images](./assets/images)
 - [Emails](./emails)
 
