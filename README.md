@@ -1,4 +1,8 @@
-![EngineRoom](https://github.com/the-engineroom/content-and-material/raw/master/assets/images/icon.png)
+<p align="center">
+  <img alt="EngineRoom Icon" src="https://github.com/the-engineroom/content-and-material/raw/master/assets/images/icon.png" width="256" height="256>
+</p>
+
+- - -
 
 # EngineRoom Content & Materials
 
