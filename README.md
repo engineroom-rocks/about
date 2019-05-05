@@ -1,3 +1,5 @@
+![EngineRoom](https://github.com/the-engineroom/content-and-material/raw/master/assets/images/icon.png)
+
 # EngineRoom Content & Materials
 
 This repository contains everything non-technical used in the EngineRoom community.
