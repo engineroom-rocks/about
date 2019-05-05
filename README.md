@@ -51,12 +51,20 @@ Our meetups will always have an open segment for the community to step up to sha
 
 Curated Product Talk Registration: [the.engineroom.sg@gmail.com](mailto:the.engineroom.sg@gmail.com)
 
-Community Speaker Registration: https://forms.gle/oVGrFxWfwoDA9y4c6
+Community Speaker Registration: <a target="_blank" href="https://forms.gle/oVGrFxWfwoDA9y4c6">https://forms.gle/oVGrFxWfwoDA9y4c6</a>
 
-Event Registration: https://ti.to/engine-room
+Event Registration: <a target="_blank" href="https://ti.to/engine-room">https://ti.to/engine-room</a>
 
-Telegram Channel: https://t.me/engineroom_rocks
+Telegram Channel: <a target="_blank" href="https://t.me/engineroom_rocks">https://t.me/engineroom_rocks</a>
 
-Facebook Page: https://www.facebook.com/engineroom.rocks
+Facebook Page: <a target="_blank" href="https://www.facebook.com/engineroom.rocks">https://www.facebook.com/engineroom.rocks</a>
 
-Website: https://engineroom.rocks
+Website: <a target="_blank" href="https://engineroom.rocks">https://engineroom.rocks</a>
+
+- - -
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/sg/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/sg/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/sg/">Creative Commons Attribution-ShareAlike 3.0 Singapore License</a>.
+
+See [LICENSE.md](./LICENSE.md) for the full text.
