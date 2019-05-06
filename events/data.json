@@ -1,0 +1,20 @@
+[
+  {
+    "start": [2019, 5, 8, 19, 0],
+    "end": [2019, 5, 8, 21, 0],
+    "title": "EngineRoom Meetup",
+    "description": "EngineRoom's May 2019 Edition",
+    "location": "1 Fusionopolis View, #08-01 Sandcrawler, Singapore 138577",
+    "url": "https://ti.to/engine-room/may-2019",
+    "geo": {
+      "lat": 1.2995,
+      "lon": 103.7891
+    },
+    "categories": ["Product", "Software", "Engineering", "Saas", "PaaS"],
+    "status": "CONFIRMED",
+    "organizer": {
+      "name": "EngineRoom",
+      "email": "the.engineroom.sg@gmail.com"
+    }
+  }
+]

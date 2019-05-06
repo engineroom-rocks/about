@@ -1,0 +1,12 @@
+{
+  "name": "@engineroom.rocks/events",
+  "version": "1.0.0",
+  "description": "EngineRoom events engine that generates .ics files",
+  "scripts": {},
+  "keywords": [],
+  "author": "zephinzer <dev.at.joeir.dot.net>",
+  "license": "MIT",
+  "dependencies": {
+    "ics": "^2.12.1"
+  }
+}

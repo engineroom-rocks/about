@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="EngineRoom Icon" src="https://github.com/the-engineroom/content-and-material/raw/master/assets/images/icon.png" width="256" height="256">
+  <img alt="EngineRoom Icon" src="https://raw.githubusercontent.com/engineroom-rocks/about/master/assets/images/icon/icon_dark_hexagon.png" width="256" height="256">
 </p>
 
 - - -
@@ -40,11 +40,18 @@ Our meetups will always have an open segment for the community to step up to sha
 
 - - -
 
-# Resources Found Here
+# Events
+If you'd like, you can [subscribe to our iCalendar](https://raw.githubusercontent.com/engineroom-rocks/about/master/events/calendar.ics). Alternatively, they're listed at [this page](./events.md)
 
-- [Events](./events.md)
-- [Images](./assets/images)
-- [Emails](./emails)
+- - -
+
+# Images
+[Found here](./assets/images)
+
+- - -
+
+# Emails
+[Found here](./emails)
 
 - - -
 
